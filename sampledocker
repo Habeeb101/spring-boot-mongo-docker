@@ -1,0 +1,3 @@
+FROM alpane:latest
+COPY /sript/local /tmp/app
+
